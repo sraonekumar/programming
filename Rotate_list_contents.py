@@ -1,4 +1,4 @@
-# hello
+# Rotate list
 def rotate(l,r,d = 0):
     if(r > len(l)):
         while(r > len(l)):
